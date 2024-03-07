@@ -12,10 +12,10 @@ DevPen is my own version of CodePen, built for coders who want a straightforward
 ## 📦 Tech Stack Used 
 
 - `React.js`
-- 'Material-UI'
+- `Material-UI`
 - `CSS`
 - `CodeMirror2`
-- 'Firebase'
+- `Firebase`
 
 
 ## 💡 Improvement
