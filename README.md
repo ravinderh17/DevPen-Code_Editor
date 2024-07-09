@@ -1,7 +1,7 @@
 # DevPen- CodePen Clone
 
 DevPen is my own version of CodePen, built for coders who want a straightforward and efficient way to write and test HTML, CSS, and JavaScript. Using React and MaterialUI, I made sure DevPen is easy to use and gets the job done. 
-Demo- https://codepen-clone-f0ca8.web.app/
+- Demo- https://codepen-clone-f0ca8.web.app/
 
 ## 🚀 Key Features
 
